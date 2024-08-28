@@ -1,21 +1,43 @@
-<h1 align="center">Hi 👋, I'm Baffuoh Asare-Bediako</h1>
-<h3 align="center">A final-year computer engineering student at KNUST, and a frontned developer</h3>
+# 👋 Hi, I'm Baffuoh Asare-Bediako
 
-- 👨‍💻 All of my projects are available at [bento.me/baffuohasareb](bento.me/baffuohasareb)
+I'm a Computer Engineering student at KNUST, Ghana, with a passion for frontend development. I enjoy building responsive web and mobile applications using React and React Native.
 
-- 📫 How to reach me **baffuohab@gmail.com**
+### 🛠️ Skills
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Vploi5cDl72caMeQsPMnS97ql1DTOtm2JX5IkN0a7is/edit?usp=sharing](https://docs.google.com/document/d/1Vploi5cDl72caMeQsPMnS97ql1DTOtm2JX5IkN0a7is/edit?usp=sharing)
+- **Frontend**:  
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+  ![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/baffuohasareb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="baffuohasareb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/baffuohasareb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baffuohasareb" height="30" width="40" /></a>
-<a href="https://instagram.com/baffuohasareb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baffuohasareb" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/baffuohasareb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="baffuohasareb" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/asarebediakobaffuoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asarebediakobaffuoh" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@baffuohasareb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@baffuohasareb" height="30" width="40" /></a>
-</p>
+- **Programming**:  
+  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)
+  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- **Tools**:  
+  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![Expo](https://img.shields.io/badge/Expo-%23000000.svg?style=for-the-badge&logo=expo&logoColor=white)
+
+### 💼 Experience
+- **Vice President-Technology @ Enactus KNUST**: Led tech initiatives and mentored team members.
+- **IT Intern @ Ghana Education Service**: Managed data operations and contributed to project reviews.
+
+### 📚 Projects
+- **[DailyBite](https://github.com/yourprojectrepo)**: A food ordering app using React Native.
+- **[BookIt](https://github.com/Team-BookIt/BookIt-Client)**: An event management app with React.
+- **[Sticky Notes](https://github.com/baffuohasareb/NoteApp)**: A note-taking app built with React Native.
+
+### 🌐 Portfolio
+- **Visit my portfolio**: [bento.me/baffuohasareb](https://bento.me/baffuohasareb)
+
+### 📈 GitHub Stats
+
+![Baffuoh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baffuohasareb&show_icons=true&theme=radical)
+
+### 📫 Let's Connect
+- **LinkedIn**: [linkedin.com/in/baffuohasareb](https://linkedin.com/in/baffuohasareb)
+- **GitHub**: [github.com/baffuohasareb](https://github.com/baffuohasareb)
