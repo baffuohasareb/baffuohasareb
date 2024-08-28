@@ -34,7 +34,6 @@ I'm a Computer Engineering student at KNUST, Ghana, with a passion for frontend 
 ### 📈 GitHub Stats
 
 ![Baffuoh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baffuohasareb&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=baffuohasareb&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baffuohasareb&layout=compact&theme=radical)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=baffuohasareb&theme=radical&no-bg=true&no-frame=true)
 
