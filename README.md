@@ -22,9 +22,6 @@ I'm a Computer Engineering student at KNUST, Ghana, with a passion for frontend 
   ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![Expo](https://img.shields.io/badge/Expo-%23000000.svg?style=for-the-badge&logo=expo&logoColor=white)
 
-### 💼 Experience
-- **Vice President-Technology @ Enactus KNUST**: Led tech initiatives and mentored team members.
-- **IT Intern @ Ghana Education Service**: Managed data operations and contributed to project reviews.
 
 ### 📚 Projects
 - **[DailyBite](https://github.com/yourprojectrepo)**: A food ordering app using React Native.
@@ -37,6 +34,11 @@ I'm a Computer Engineering student at KNUST, Ghana, with a passion for frontend 
 ### 📈 GitHub Stats
 
 ![Baffuoh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baffuohasareb&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baffuohasareb&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=baffuohasareb&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=baffuohasareb&theme=radical&no-bg=true&no-frame=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=baffuohasareb&theme=radical)
+
 
 ### 📫 Let's Connect
 - **LinkedIn**: [linkedin.com/in/baffuohasareb](https://linkedin.com/in/baffuohasareb)
