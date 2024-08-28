@@ -24,7 +24,7 @@ I'm a Computer Engineering student at KNUST, Ghana, with a passion for frontend 
 
 
 ### 📚 Projects
-- **[DailyBite]([https://github.com/yourprojectrepo](https://drive.google.com/file/d/1SFosGoNfyveRlDUpnr5dlJRBjvDnp3X5/view?usp=drive_link))**: A food ordering app using React Native.
+- **[DailyBite](https://github.com/yourprojectrepo)**: A food ordering app using React Native.
 - **[BookIt](https://github.com/Team-BookIt/BookIt-Client)**: An event management app with React.
 - **[Sticky Notes](https://github.com/baffuohasareb/NoteApp)**: A note-taking app built with React Native.
 
@@ -35,9 +35,11 @@ I'm a Computer Engineering student at KNUST, Ghana, with a passion for frontend 
 
 ![Baffuoh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baffuohasareb&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baffuohasareb&layout=compact&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=baffuohasareb&theme=radical&no-bg=true&no-frame=true)
-
+[![Baffuoh's Contribution Graph](https://github-contribution-graph.ezra-bot.vercel.app/api?username=baffuohasareb&bg_color=1a1b27&color=38bdae&line=ff9b1e&point=ffffff&theme=radical)](https://github.com/baffuohasareb)
 
 ### 📫 Let's Connect
+- **Email**: [baffuohab@gmail.com](mailto:baffuohab@gmail.com)
+- **WhatsApp**: [+233559927497](https://wa.me/233559927497)
+- **Twitter**: [@baffuohasareb](https://twitter.com/baffuohasareb)
 - **LinkedIn**: [linkedin.com/in/baffuohasareb](https://linkedin.com/in/baffuohasareb)
 - **GitHub**: [github.com/baffuohasareb](https://github.com/baffuohasareb)
