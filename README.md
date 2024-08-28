@@ -37,8 +37,8 @@ I'm a Computer Engineering student at KNUST, Ghana, with a passion for frontend 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baffuohasareb&layout=compact&theme=radical&hide_border=true)
 
 ### 📫 Let's Connect
-- **Email**: [baffuohab@gmail.com](mailto:baffuohab@gmail.com) ![Email](https://img.shields.io/badge/-Email-%23D14836?style=flat-square&logo=gmail&logoColor=white)
-- **WhatsApp**: [+233559927497](https://wa.me/233559927497) ![WhatsApp](https://img.shields.io/badge/-WhatsApp-%232BBE77?style=flat-square&logo=whatsapp&logoColor=white)
-- **Twitter**: [@baffuohasareb](https://twitter.com/baffuohasareb) ![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white)
-- **LinkedIn**: [linkedin.com/in/baffuohasareb](https://linkedin.com/in/baffuohasareb) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white)
-- **GitHub**: [github.com/baffuohasareb](https://github.com/baffuohasareb) ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
+- ![Email](https://img.shields.io/badge/-Email-%23D14836?style=flat-square&logo=gmail&logoColor=white) [baffuohab@gmail.com](mailto:baffuohab@gmail.com) 
+- ![WhatsApp](https://img.shields.io/badge/-WhatsApp-%232BBE77?style=flat-square&logo=whatsapp&logoColor=white) [+233559927497](https://wa.me/233559927497) 
+- ![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white) [@baffuohasareb](https://twitter.com/baffuohasareb) 
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white) [linkedin.com/in/baffuohasareb](https://linkedin.com/in/baffuohasareb) 
+- ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=white) [github.com/baffuohasareb](https://github.com/baffuohasareb) 
