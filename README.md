@@ -41,4 +41,3 @@ I'm a Computer Engineering student at KNUST, Ghana, with a passion for frontend 
 - ![WhatsApp](https://img.shields.io/badge/-WhatsApp-%232BBE77?style=flat-square&logo=whatsapp&logoColor=white) [+233559927497](https://wa.me/233559927497) 
 - ![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white) [@baffuohasareb](https://twitter.com/baffuohasareb) 
 - ![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white) [linkedin.com/in/baffuohasareb](https://linkedin.com/in/baffuohasareb) 
-- ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=white) [github.com/baffuohasareb](https://github.com/baffuohasareb) 
