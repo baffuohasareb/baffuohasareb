@@ -23,12 +23,6 @@ I'm a Computer Engineering student at KNUST, Ghana, with a passion for frontend 
   ![Expo Go](https://img.shields.io/badge/Expo-%23000000.svg?style=for-the-badge&logo=expo&logoColor=white)
 
 
-### 📚 Projects
-- **[DailyBite](https://github.com/yourprojectrepo)**: A food ordering app using React Native.
-- **[BookIt](https://github.com/Team-BookIt/BookIt-Client)**: An event management app with React.
-- **[Sticky Notes](https://github.com/baffuohasareb/NoteApp)**: A note-taking app built with React Native.
-- **[Choices](https://github.com/baffuohasareb/choices)**: A text-based adventure game written in C++.
-
 ### 🌐 Portfolio
 - **Visit my portfolio**: [bento.me/baffuohasareb](https://bento.me/baffuohasareb)
 
