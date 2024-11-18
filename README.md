@@ -27,8 +27,6 @@ I'm a Computer Engineering student at KNUST, Ghana, with a passion for frontend 
 - **Visit my portfolio**: [bento.me/baffuohasareb](https://bento.me/baffuohasareb)
 
 ### 📈 GitHub Stats
-
-![Baffuoh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baffuohasareb&show_icons=true&theme=radical&hide_title=true&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baffuohasareb&layout=compact&theme=radical&hide_border=true)
 
 
