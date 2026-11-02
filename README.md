@@ -44,7 +44,7 @@ I built an app that tells you where your money went. Brace yourself.
   MOUNT      React Native     same spells, now in your pocket
   SIDEQUEST  WordPress        completed, loot collected
   MERCHANT   WooCommerce      sells things while I sleep
-  VAULT      Postgres         where the data lives rent-free
+  VAULT      Postgres         Supabase-flavored, data lives rent-free
 ```
 
 <div align="center">
