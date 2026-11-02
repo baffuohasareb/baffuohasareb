@@ -1,38 +1,55 @@
-# 👋 Hi, I'm Baffuoh Asare-Bediako
+<div align="center">
 
-I'm a Computer Engineering student at KNUST, Ghana, with a passion for frontend development. I enjoy building responsive web and mobile applications using React and React Native.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:800020,100:2B2B2B&height=170&section=header&text=Baffuoh&fontSize=64&fontColor=F5F1E8&animation=fadeIn&fontAlignY=38" width="100%" />
 
-### 🛠️ Skills
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=F5F1E8&background=2B2B2B&center=true&vCenter=true&width=700&height=60&lines=I+ship+pixels+for+a+living.;Yes%2C+I+can+center+a+div.;No%2C+not+on+the+first+try.;Ctrl%2BZ+is+my+love+language.;useEffect+and+I+are+not+on+speaking+terms." alt="typing intro" />
 
-- **Frontend**:  
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-  ![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+</div>
 
-- **Programming**:  
-  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)
-  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<br>
 
-- **Tools**:  
-  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Expo Go](https://img.shields.io/badge/Expo-%23000000.svg?style=for-the-badge&logo=expo&logoColor=white)
+## 🧾 Receipts, literally
+
+I built an app that tells you where your money went. Brace yourself.
+
+```
+┌──────────────────────────────────────────────┐
+│             S I K A   P U D U O              │
+│            your money, itemized              │
+│  ··········································  │
+│  waakye ("just this once")            x4     │
+│  data bundle (again)                         │
+│  small chop for a friend                     │
+│  ··········································  │
+│  TOTAL ................ a lesson             │
+│                                              │
+│  Now you can see it. You're welcome.         │
+└──────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+[![Get the APK](https://img.shields.io/badge/Get_the_APK-800020?style=for-the-badge&logo=android&logoColor=F5F1E8&labelColor=2B2B2B)](https://sika-puduo.vercel.app)
+
+</div>
 
 
-### 🌐 Portfolio
-- **Visit my portfolio**: [bento.me/baffuohasareb](https://bento.me/baffuohasareb)
+## 🎒 Loadout
 
-### 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baffuohasareb&layout=compact&theme=radical&hide_border=true)
+```
+  CLASS      Software Engineer
 
+  MAIN       Next.js          the sword I trust
+  SPELLBOOK  React            hooks, and the occasional curse
+  MOUNT      React Native     same spells, now in your pocket
+  SIDEQUEST  WordPress        completed, loot collected
+  MERCHANT   WooCommerce      sells things while I sleep
+  VAULT      Postgres         where the data lives rent-free
+```
 
+<div align="center">
 
-### 📫 Let's Connect
-- ![Email](https://img.shields.io/badge/-Email-%23D14836?style=flat-square&logo=gmail&logoColor=white) [baffuohab@gmail.com](mailto:baffuohab@gmail.com) 
-- ![WhatsApp](https://img.shields.io/badge/-WhatsApp-%232BBE77?style=flat-square&logo=whatsapp&logoColor=white) [+233559927497](https://wa.me/233559927497) 
-- ![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white) [@baffuohasareb](https://twitter.com/baffuohasareb) 
-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white) [linkedin.com/in/baffuohasareb](https://linkedin.com/in/baffuohasareb) 
+[![Say hi](https://img.shields.io/badge/Slide_into_my_LinkedIn-800020?style=for-the-badge&logo=linkedin&logoColor=F5F1E8&labelColor=2B2B2B)](https://linkedin.com/in/baffuohasareb)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2B2B,100:800020&height=100&section=footer" width="100%" />
+</div>
